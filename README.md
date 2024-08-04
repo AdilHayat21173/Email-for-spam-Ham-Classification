@@ -11,10 +11,10 @@ To build an application using Streamlit that detects whether an email is spam or
 ![Screenshot (707)](https://github.com/user-attachments/assets/d5029754-5fe5-455a-95a6-45b7e6a3a53d)
 ## Installation
 Follow these steps to set up the environment and install the required dependencies.
-### Step 1: Create a New Virtual Environment
+## Step 1: Create a New Virtual Environment
 ```bash
 python -m venv venv
-```bash
+
 Step 2: Activate the Virtual Environment
 On Windows:
 ```bash
