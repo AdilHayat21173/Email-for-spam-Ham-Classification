@@ -14,7 +14,7 @@ Follow these steps to set up the environment and install the required dependenci
 ### Step 1: Create a New Virtual Environment
 ```bash
 python -m venv venv
-
+```bash
 Step 2: Activate the Virtual Environment
 On Windows:
 ```bash
